@@ -28,8 +28,8 @@ app.get('/', (req, res) => {
 app.get('/about', (req, res) => {
   res.status(200).json({
     name: 'Srinandan',
-    section: 'CSE-2D',
-    regNo: '214'
+    section: '214',
+    rollNo: '1205'
   });
 });
 

@@ -2,7 +2,7 @@
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
 **Faculty:** Joel Prashanth D  
-**Student Details:** Srinandan · Roll/Reg No: 214 · Section: CSE-2D  
+**Student Details:** Srinandan · Roll No: 1205 · Section: 214  
 
 ---
 
@@ -59,7 +59,7 @@ The application uses the following optional environment variables:
 | HTTP Method | Endpoint | Description | Expected Status |
 | :--- | :--- | :--- | :--- |
 | `GET` | `/` | Returns welcome message text | `200 OK` |
-| `GET` | `/about` | Returns student details (name, section, regNo) in JSON format | `200 OK` |
+| `GET` | `/about` | Returns student details (name, section, rollNo) in JSON format | `200 OK` |
 | `GET` | `/time` | Returns current date and time using `new Date()` | `200 OK` |
 | `ALL` | `/*` (Unknown route) | Catch-all 404 handler returning JSON error message | `404 Not Found` |
 
