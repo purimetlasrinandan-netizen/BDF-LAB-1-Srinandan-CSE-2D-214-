@@ -1,7 +1,7 @@
 # Lab 1: Node.js and Express server
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
-**Faculty:** Joel Prashanth D  
+**Faculty:** Chintakrindi Sai Siva Teja  
 **Student Details:** Srinandan · Roll No: 1205 · Section: 214  
 
 ---

@@ -1,5 +1,5 @@
 // Lab 1: Node.js and Express Server
-// Faculty: Joel Prashanth D | Backend Development Fundamentals
+// Faculty: Chintakrindi Sai Siva Teja | Backend Development Fundamentals
 
 const express = require('express');
 const app = express();
