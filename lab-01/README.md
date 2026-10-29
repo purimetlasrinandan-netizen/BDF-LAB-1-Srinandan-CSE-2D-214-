@@ -7,7 +7,7 @@
 ---
 
 ## Live Link
-- **Public Deployment URL:** [https://lab-01-express-server.onrender.com](https://lab-01-express-server.onrender.com) *(or `Not applicable: Local Development Environment / Self-Hosted; tested with browser and curl as captured below`)*
+- **Deployment Status:** Not applicable (Developed and tested in local Node.js environment; verified and documented with browser screenshots for every endpoint below)
 - **GitHub Repository:** [https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-](https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-)
 
 ---
@@ -21,8 +21,8 @@
 ### Installation
 1. Clone the repository and navigate to the `lab-01` directory:
    ```bash
-   git clone <YOUR_GITHUB_REPOSITORY_URL>
-   cd "back lab 1/lab-01"
+   git clone https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-.git
+   cd BDF-LAB-1-Srinandan-CSE-2D-214-/lab-01
    ```
 2. Install dependencies:
    ```bash
