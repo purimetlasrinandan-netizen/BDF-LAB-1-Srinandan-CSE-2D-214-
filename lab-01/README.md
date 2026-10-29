@@ -9,6 +9,7 @@
 ## Live Link
 - **Deployment Status:** Not applicable (Developed and tested in local Node.js environment; verified and documented with browser screenshots for every endpoint below)
 - **GitHub Repository:** [https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-](https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-)
+- ** Deployed link: ** [https://bdf-lab-1-srinandan-cse-2-d-214.vercel.app/](https://bdf-lab-1-srinandan-cse-2-d-214.vercel.app/)
 
 ---
 
