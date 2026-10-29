@@ -3,8 +3,9 @@
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
 **Faculty:** Joel Prashanth D  
 **Student Name:** Srinandan  
-**Registration Number:** 23BD1A05XX  
-**Section:** CSE-A  
+**Registration / Roll Number:** 214  
+**Section:** CSE-2D  
+**GitHub Repository:** [https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-](https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-)
 
 ---
 

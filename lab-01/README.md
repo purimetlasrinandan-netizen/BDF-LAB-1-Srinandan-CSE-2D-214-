@@ -2,12 +2,13 @@
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
 **Faculty:** Joel Prashanth D  
-**Student Details:** Srinandan · 23BD1A05XX · CSE-A  
+**Student Details:** Srinandan · Roll/Reg No: 214 · Section: CSE-2D  
 
 ---
 
 ## Live Link
 - **Public Deployment URL:** [https://lab-01-express-server.onrender.com](https://lab-01-express-server.onrender.com) *(or `Not applicable: Local Development Environment / Self-Hosted; tested with browser and curl as captured below`)*
+- **GitHub Repository:** [https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-](https://github.com/purimetlasrinandan-netizen/BDF-LAB-1-Srinandan-CSE-2D-214-)
 
 ---
 
