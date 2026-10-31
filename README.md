@@ -1,7 +1,7 @@
 # Backend Development Fundamentals - Lab Repository
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
-**Faculty:** Chintakrindi Sai Siva Teja (Lab 1) · Joel Prashanth D (Lab 2)  
+**Faculty:** Chintakrindi Sai Siva Teja  
 **Student Name:** Srinandan  
 **Roll Number:** 1205  
 **Section:** 214 (CSE-2D)  
