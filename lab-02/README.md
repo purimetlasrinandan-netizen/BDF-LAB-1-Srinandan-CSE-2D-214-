@@ -133,3 +133,4 @@ Demonstrates direct SQLite CLI queries confirming the table records in `books.db
 > **Answer:**
 > - **POST** is used to create a new resource. It is typically **non-idempotent** (sending the same POST request multiple times will create multiple new rows with distinct IDs).
 > - **PUT** is used to update or replace an existing resource at a specific URI (`/books/:bookId/`). It is **idempotent** (making the same PUT request multiple times with identical data produces the same final state on the server without creating extra records).
+

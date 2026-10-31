@@ -19,3 +19,4 @@ INSERT INTO book (title, author, price, pages) VALUES ('Fahrenheit 451', 'Ray Br
 INSERT INTO book (title, author, price, pages) VALUES ('Brave New World', 'Aldous Huxley', 490, 268);
 INSERT INTO book (title, author, price, pages) VALUES ('The Alchemist', 'Paulo Coelho', 350, 208);
 INSERT INTO book (title, author, price, pages) VALUES ('Clean Code', 'Robert C. Martin', 1250, 464);
+

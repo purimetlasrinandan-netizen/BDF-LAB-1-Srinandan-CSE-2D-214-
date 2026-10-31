@@ -24,3 +24,4 @@ npm run seed
 npm run dev
 ```
 See the full documentation and test results in [lab-02/README.md](./lab-02/README.md).
+
