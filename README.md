@@ -2,7 +2,7 @@
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
 **Faculty:** Joel Prashanth D  
-**Student:** Srinandan  
+**Student:** Srinandan · **Roll / Reg No:** 214 · **Section:** CSE-2D  
 
 This repository contains all laboratory exercises and projects for the Backend Development Fundamentals course.
 

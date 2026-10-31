@@ -2,7 +2,7 @@
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
 **Faculty:** Joel Prashanth D  
-**Student:** Srinandan · **Registration Number:** [Registration Number] · **Section:** [Section]  
+**Student:** Srinandan · **Roll / Reg No:** 214 · **Section:** CSE-2D  
 
 ---
 
