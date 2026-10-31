@@ -7,18 +7,15 @@ const dbPath = path.join(__dirname, 'books.db');
 
 async function seed() {
   try {
-    // Delete existing books.db to allow clean re-seeding if run again
-    if (fs.existsSync(dbPath)) {
-      fs.unlinkSync(dbPath);
-      console.log('Removed existing books.db for fresh initialization.');
-    }
-
     const db = await open({
       filename: dbPath,
       driver: sqlite3.Database
     });
 
     console.log('Connected to SQLite database at:', dbPath);
+
+    // Drop table if exists to cleanly re-populate without deleting the file (prevents Windows EBUSY file locks)
+    await db.exec('DROP TABLE IF EXISTS book;');
 
     const setupSql = fs.readFileSync(path.join(__dirname, 'setup.sql'), 'utf-8');
     await db.exec(setupSql);
